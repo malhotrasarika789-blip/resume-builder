@@ -1,16 +1,51 @@
-# React + Vite
+ResumeCraft – React Resume Builder
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern and responsive Resume Builder web application built using React.js.
+It allows users to create a resume with live preview and a beautiful UI.
 
-Currently, two official plugins are available:
+🔗 Live Demo: https://resume-builder-theta-five-36.vercel.app
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+✨ Features
+📝 Live Resume Preview
+👤 Personal Information Section
+🎓 Education Details Section
+💼 Experience Section
+🛠 Skills Section
+📱 Fully Responsive UI
+🎨 Modern Rose Gold Theme
 
-## React Compiler
+⚙️ Tech Stack
+React.js
+JavaScript (ES6+)
+CSS3
+HTML5
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+📚 What I Learned
 
-## Expanding the ESLint configuration
+This project helped me improve my React fundamentals:
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+useState Hook
+Controlled Components
+Component-based Architecture
+Real-time UI Updates
+State Management
+
+🚀 Getting Started
+
+Clone the repository:
+
+git clone https://github.com/your-username/resumecraft.git
+
+Install dependencies:
+
+npm install
+
+Run the project:
+
+npm start
+
+📌 Future Improvements
+Export resume as PDF
+Multiple resume templates
+Authentication system
+Save resume to database
